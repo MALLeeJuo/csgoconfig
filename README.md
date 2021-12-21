@@ -1,5 +1,7 @@
 // #bad config thanks
 
+ANM > ANMv4 are unfinished, preferred ANMv5 > ANMv7_build4
+
 -nomicsettings -refreshrate (choose 60/75/144) -high -novid -console +exec (nameconfig).cfg
 
 (2020)  1280x1024 60hz streched, sens 1.4/1.5/1.8 800dpi (g102)
