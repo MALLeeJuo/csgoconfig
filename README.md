@@ -10,7 +10,7 @@ ANM > ANMv4 are unfinished, preferred ANMv5 > ANMv7_build4
 
 (2021early/mid) 1280x1024 144hz streched, sens 1.45 400dpi (g102)(g603)
 
-(2021late) 1280x1024 144hz streched, sens 1.45 800dpi (g603)
+(2021late) 1920x1080 144hz full, sens 1.45 800dpi (g603)
 
 2022 will no longer update, retired
 
